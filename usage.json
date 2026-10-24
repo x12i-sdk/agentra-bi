@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-bi",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-bi",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-bi",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/bi",
+  "example": {
+    "title": "Compile and run a named business metric over local counters",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:29:38.314192+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "854b928e0e0206c6e2b920b03bffd0aa00be745fe830db7e72da3e677013ec88",
+    "manifestSha256": "de6eb9fbf347641d40ed420361df38fac20a30d10582a3a8f3372d7946b253d9"
+  },
+  "validationFiles": {
+    "src/index.mjs": "854b928e0e0206c6e2b920b03bffd0aa00be745fe830db7e72da3e677013ec88"
+  }
+}
